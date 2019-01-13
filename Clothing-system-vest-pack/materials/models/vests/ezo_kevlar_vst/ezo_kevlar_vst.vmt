@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/ezo_kevlar_vst/ezo_kevlar_vst"
+	"$translucent" 1
+}

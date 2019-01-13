@@ -1,0 +1,30 @@
+vertexlitgeneric
+{
+	"$basetexture"              models\BlooCobalt\combine\c_arms/ct_fbi_glove_color_custom
+	"$envmap"                   env_cubemap
+	"$envmaptint"               "[ .01 .01 .02 ]"
+	"$basealphaphongmask"       1
+	"$normalmapalphaenvmapmask" 1
+	"$bumpmap"                  models\BlooCobalt\combine\c_arms/ct_base_glove_normal
+	"$phongexponenttexture"     models\BlooCobalt\combine\c_arms/ct_base_glove_exp
+	"$PhongWarpTexture"         "models\BlooCobalt\combine\c_arms\ctm_specwarp"
+	"$FresnelRangesTexture"     "models\BlooCobalt\combine\c_arms\ctm_fresnelwarp"
+	"$phong"                    1
+	"$phongboost"               .4
+	"$phongalbedoboost"         15
+	"$phongtint"                "[0.7 0.8 1]"
+	"$phongfresnelranges"       "[1 1 3]"
+	"$rimlight"                 1
+	"$rimlightexponent"         4
+	"$rimlightboost"            1
+	"$rimmask"                  1
+	
+	"$halflambert"          1
+	"$model"                1
+	
+	$detail "models\BlooCobalt\combine\c_arms/leatherdetail"
+	$detailscale 16
+	$detailblendfactor 1.7
+	$detailblendmode 0
+	
+}

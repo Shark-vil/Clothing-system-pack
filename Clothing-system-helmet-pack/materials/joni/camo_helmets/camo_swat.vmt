@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+
+     $basetexture "Joni\camo_helmets\swat_helmet"
+
+	 $color2 "{149.94 149.94 149.94}"
+}

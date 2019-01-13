@@ -1,0 +1,11 @@
+{ 
+"title"		:	"[ClothingSystem] PayDay 2 - Suit Pack (Armor)", 
+"type"		:	"weapon", 
+"tags"		:	[ "fun", "realism" ], 
+"ignore"	: 
+[ 
+"*.psd", 
+"*.vcproj", 
+"*.svn*" 
+] 
+} 

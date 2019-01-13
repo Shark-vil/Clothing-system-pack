@@ -1,0 +1,11 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/mlp_guards/Combine_soldier/Belt_gear"
+	"$bumpmap" "models/mlp_guards/Combine_soldier/Belt_gear_n"
+	"$halflambert" 1
+
+	"$phong" "1"
+	"$phongexponent" "20"
+	"$phongboost" ".3"	
+	"$phongfresnelranges"	"[2 5 10]"
+}

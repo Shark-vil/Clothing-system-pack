@@ -1,0 +1,11 @@
+{ 
+"title"		:	"Clothing-system: Fallout Power-armor (x01)", 
+"type"		:	"model", 
+"tags"		:	[ "roleplay", "realism" ], 
+"ignore"	: 
+[ 
+"*.psd", 
+"*.vcproj", 
+"*.svn*" 
+] 
+} 

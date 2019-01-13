@@ -1,0 +1,14 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\VN_mlp\Overmare_test\stable_security_armor"
+	"$bumpmap" "models\VN_mlp\Overmare_test\stable_security_armor_n"
+	"$phong" "1"
+	"$phongboost"   "0.4"
+$phongexponent 10
+	"$phongfresnelranges" "[0.2 .5 10]"
+	"$phongalbedotint" "1"
+	"$rimlight" "1"
+	"$rimlightexponent" "5"
+	"$rimlightboost" "0.4"		
+$nocull 1
+}

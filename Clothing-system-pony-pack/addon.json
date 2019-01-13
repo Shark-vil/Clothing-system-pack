@@ -1,0 +1,11 @@
+{ 
+"title"		:	"Clothing-system: Pony pack", 
+"type"		:	"model", 
+"tags"		:	[ "roleplay", "realism" ], 
+"ignore"	: 
+[ 
+"*.psd", 
+"*.vcproj", 
+"*.svn*" 
+] 
+} 

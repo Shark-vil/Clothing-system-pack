@@ -1,0 +1,19 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\BlooCobalt\combine\c_arms\c_arms_combinesoldier_fg"
+	"$bumpmap"     "models\BlooCobalt\combine\c_arms/c_arms_combinesoldier_normal_fg"
+
+	"$phong" "1"
+	"$phongboost" "0.5"
+	"$phongexponent" "5"
+	"$phongfresnelranges"	"[.2 .4 1]"
+	
+	"$rimlight" "1"
+	"$rimlightboost" "0.5"
+	"$rimlightexponent" "12"
+	
+	$detail detail\plaster_detail_01
+	$detailscale 7.65
+	$detailblendfactor 0.6
+	$detailblendmode 0
+}

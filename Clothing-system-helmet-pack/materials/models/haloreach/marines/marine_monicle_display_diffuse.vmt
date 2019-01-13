@@ -1,0 +1,10 @@
+VertexLitGeneric
+{
+	"$basetexture"	"models\HaloReach\marines\marine_monicle_display_diffuse"
+	"$nocull"		"1"
+	"$translucent" 1
+
+	"$blendtintbybasealpha" 1
+
+	"$additive" 1
+}

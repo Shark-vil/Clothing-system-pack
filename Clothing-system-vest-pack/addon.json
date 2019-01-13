@@ -1,0 +1,11 @@
+{ 
+"title"		:	"Clothing-system: Vest Pack", 
+"type"		:	"model", 
+"tags"		:	[ "roleplay", "realism" ], 
+"ignore"	: 
+[ 
+"*.psd", 
+"*.vcproj", 
+"*.svn*" 
+] 
+} 

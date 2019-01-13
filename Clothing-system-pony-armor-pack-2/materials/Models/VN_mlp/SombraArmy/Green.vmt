@@ -1,0 +1,9 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/VN_mlp/SombraArmy/Green"
+
+"$selfillum" "1"
+"$selfIllumFresnel" "1"
+"$selfIllumFresnelMinMaxExp" "[0 18 13]" // 0.0 1.0 1.0 is the default
+
+}

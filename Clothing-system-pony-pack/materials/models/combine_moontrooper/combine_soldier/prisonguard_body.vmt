@@ -1,0 +1,17 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/combine_moontrooper/Combine_soldier/Prisonguard_body"
+	"$bumpmap" "models/combine_moontrooper/Combine_soldier/Combineelite_body_n"
+
+	"$phongalbedotint" "1"	
+	"$phong" "1"
+	"$phongexponent" "20"
+	"$phongboost" ".3"	
+	"$phongfresnelranges"	"[.3 1 8]"
+	"$halflambert" "1"
+        "$phongexponenttexture" "models/combine_moontrooper/Combine_soldier/Combineelite_body_exp"
+
+	"$rimlight" "1"
+	"$rimlightexponent" "20"
+	"$rimlightboost" ".5"
+}

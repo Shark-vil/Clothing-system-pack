@@ -1,0 +1,5 @@
+"UnlitGeneric"
+{
+	"$basetexture" "models/BlooCobalt/combine/Flighthelmet_lens_cmb"
+	"$selfillum" "1"
+}

@@ -1,0 +1,5 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "morganicism/metroredux/gasmask/addon1overlay"
+	"$translucent" 1
+}

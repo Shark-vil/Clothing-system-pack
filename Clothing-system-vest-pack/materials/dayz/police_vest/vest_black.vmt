@@ -1,0 +1,10 @@
+"VertexlitGeneric"
+{
+"$basetexture" "Dayz/police_vest/vest_black"
+"$bumpmap" "Dayz/police_vest/vest_bump"
+"$phong" "1"
+"$phongexponent" "5"
+"$phongboost" "1"
+"$phongfresnelranges"	"[.3 .3 .3]"
+$halflambert 1
+}

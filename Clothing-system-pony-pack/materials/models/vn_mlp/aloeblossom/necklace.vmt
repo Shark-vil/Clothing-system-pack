@@ -1,0 +1,20 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/VN_mlp/aloeblossom/necklace"
+	"$nocull" "1"
+
+	"$phong" "1"
+	"$phongexponent" "50"
+	"$phongboost" "5"	
+	"$phongfresnelranges"	"[.3 1 8]"
+	"$phongtint" "[.4 .85 1]"
+	"$halflambert" "0"
+	"$basemapalphaphongmask" "1"
+	"$lightwarptexture" "models/VN_mlp/common/lightwarp"
+
+	"$rimlight" "1"
+	"$rimlightexponent" "4"	
+	"$rimlightboost" "2"
+
+	"$ambientocclusion" "1"
+}

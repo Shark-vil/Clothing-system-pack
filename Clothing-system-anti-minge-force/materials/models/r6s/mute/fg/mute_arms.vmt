@@ -1,0 +1,26 @@
+vertexlitgeneric
+{
+$baseTexture "models\R6S\Mute/fg/Mute_Arms_Diff"
+$bumpmap "models\R6S\Mute/fg/Mute_Arms_Normal"
+
+//	"$lightwarptexture" 	"models\R6S\Mute\fg/Base_M_caucasian_wrp"
+	"$normalmapalphaenvmapmask" 1	
+	"$phong" "1"
+	"$phongalbedotint" "1"
+	"$phongexponenttexture" "models\R6S\Mute/fg/Mute_Pants_Exp"
+//	"$phongexponent" "0.5"
+        "$phongboost"	"0.15"
+	"$phongfresnelranges"	"[1 2 4]"
+	"$halflambert" "1"
+
+	"$rimlight" "1"
+	"$rimlightexponent" "1"
+	"$rimlightboost" "0.9"
+
+	"$nocull" "1"
+
+	"$detail" "models\r6s\mute\fg/detail_cloth4"
+	$detailscale 12
+	$detailblendfactor 1.5
+	$detailblendmode 0
+}

@@ -1,0 +1,29 @@
+"VertexLitGeneric"
+{
+  "$basetexture"    "models\VN_mlp\steelhooves_player/sh_eye"
+	//"$bumpmap" "models\VN_mlp\steelhooves_player/sh_normal"
+	//"$envmap" "env_cubemap"
+	//"$envmaptint" "[ .3 .3 .45 ]"
+	//"$normalmapalphaenvmapmask" "1"
+	
+	//"$phong" "1"
+	//"$phongexponent" "20"
+	//"$phongexponenttexture"     "models\VN_mlp\steelhooves_player/sh_normal"
+	//"$phongboost" "2"	
+	//"$phongfresnelranges"	"[.3 1 8]"
+	//"$halflambert" "0"
+	//"$basemapalphaphongmask" "1"
+	//"$lightwarptexture" "models\VN_mlp\steelhooves_player/sh_chest"
+	
+
+	//"$rimlight" "1"
+	//"$rimlightexponent" "4"	
+	//"$rimlightboost" "1"
+
+	//"$ssbump"	"1"
+	//"$SSBumpMathFix" 	"1"
+
+	"$ambientocclusion" "1"
+	//"$AmbientOcclusionTexture" "models\VN_mlp\steelhooves_player/sh_normal"
+}
+

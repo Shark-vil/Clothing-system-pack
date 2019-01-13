@@ -1,0 +1,27 @@
+VertexLitGeneric
+{
+	"$basetexture"	"models\HaloReach\marines\marine_spacemarine_set_diffuse"	
+  	"$bumpmap"	"models\HaloReach\marines\marine_spacemarine_set_n"
+
+	"$blendtintbybasealpha"	1
+
+	$halflambert 1
+	$nocull 1
+
+	$Normalmapalphaenvmapmask 1	
+
+	"$detail" "models\HaloReach\Marines\Detail_metal"
+	"$detailscale"		"2.5"
+	"$detailblendfactor"		"1"
+
+    $phong 1
+	// $phongexponent 7
+	$phongexponenttexture "models\HaloReach\marines\HaloSP"
+	$phongboost	15
+	$phongalbedotint 1
+	$phongfresnelranges	"[0.8 0.8 0.8]"
+
+	$rimlight 1
+	$rimlightexponent 50
+	$rimlightboost 0.05
+}

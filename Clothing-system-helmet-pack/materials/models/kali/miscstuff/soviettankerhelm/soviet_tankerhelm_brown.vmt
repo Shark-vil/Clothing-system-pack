@@ -1,0 +1,30 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\kali\miscstuff\SovietTankerHelm\Soviet_TankerHelm_Brown"
+	"$bumpmap" "models\kali\miscstuff\SovietTankerHelm\Soviet_TankerHelm_N"
+	"$surfaceprop" "metal"
+	"$nocull" "1"
+	"$halflambert" "1"
+
+	"$normalmapalphaenvmapmask" 1
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[ .01 .01 .01 ]"
+	"$envmapsaturation" ".01"
+	"$envmapcontrast" "0.5"
+ 	"$envmapFresnel" "1"
+
+	"$phong" "1"
+	"$phongexponenttexture" "models\kali\miscstuff\SovietTankerHelm\Soviet_TankerHelm_Exp"
+	"$phongboost" "0.8"
+	"$phongfresnelranges"	"[ .2 .5 8]"
+	"$PhongAlbedoTint" "1"
+
+}
+
+
+
+
+
+
+
+

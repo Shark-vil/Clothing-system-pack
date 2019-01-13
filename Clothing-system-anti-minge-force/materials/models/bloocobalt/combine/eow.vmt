@@ -1,0 +1,18 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" 	"models\bloocobalt\combine\eow"
+	"$bumpmap" 	"models\bloocobalt\combine\eow_n"
+	"$model" "1"
+	"$selfillum" 1
+	"$selfillummask" "models\bloocobalt\combine\eow_m"
+	"$selfillumtint" "[1 1 1]"
+	"$phong" "1"
+	"$phongboost" "5"
+	"$halflambert" "1"
+	"$phongexponenttexture" "models\bloocobalt\combine\eow_p"
+	"$phongalbedotint" "1"										
+	"$phongfresnelranges"	"[.1 .5  1]"
+}
+
+
+

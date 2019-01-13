@@ -1,0 +1,15 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/BlooCobalt/combine/ows"
+	"$bumpmap"		"models\bloocobalt\combine\Soldier_nor"
+	"$surfaceprop" "flesh"
+	"$model" 1
+	"$selfillum" 1
+	"$selfillummask" "models/bloocobalt/combine/soldierexp"
+	"$phong" "1"
+	"$phongboost" "1"	
+	"$phongfresnelranges"	"[3 5 8]"
+	"$phongexponenttexture"	"models\bloocobalt\combine\combinesoldier_p"
+	"$phongalbedotint" "1"
+}
+

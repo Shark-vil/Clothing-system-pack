@@ -1,0 +1,9 @@
+"VertexLitGeneric"
+{
+ 	"$basetexture"    "models\VN_mlp\steelhooves_player/sh_light"
+	"$selfillum" "1"
+
+	"$ambientocclusion" "1"
+	//"$AmbientOcclusionTexture" "models\VN_mlp\steelhooves_player/sh_normal"
+}
+

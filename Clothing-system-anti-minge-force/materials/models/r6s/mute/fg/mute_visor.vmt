@@ -1,0 +1,26 @@
+vertexlitgeneric
+{
+$baseTexture "models\R6S\Mute/fg/Mute_Headgear_Diff"
+$bumpmap "models\R6S\Mute/fg/Mute_Headgear_Normal"
+
+	"$phong" "1"
+	"$phongalbedotint" "1"
+	"$phongexponenttexture" "models\R6S\Mute/fg/Mute_Visor_Exp"
+//	"$phongexponent" "10"
+        "$phongboost"	"5"
+	"$phongfresnelranges"	"[1 2 4]"
+	"$halflambert" "1"
+	$phongwarptexture "models\r6s\Mute\fg/Generic_Glass_fresnel"
+	"$rimlight" "1"
+	"$rimlightexponent" "5"
+	"$rimlightboost" "1"
+	"$rimmask" "1"
+
+	"$nocull" "1"
+
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[ .3 .3 .3 ]"
+
+	$color2 "[ 0.75 0.75 0.75 ]"
+	$color2 "{ 1 1 1 }"
+}

@@ -1,0 +1,36 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\kali\miscstuff\CVC\cvc_straps"	
+	"$bumpmap" "models\kali\miscstuff\CVC\cvc_straps_n"
+	"$surfaceprop" "metal"
+	"$nocull" "1"
+	"$halflambert" "1"
+
+	"$normalmapalphaenvmapmask" 1
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[ .04 .04 .04 ]"
+	"$envmapsaturation" ".01"
+	"$envmapcontrast" "0.5"
+ 	"$envmapFresnel" "1"
+
+	"$phong" "1"
+	"$phongexponenttexture" "models\kali\miscstuff\CVC\cvc_straps_exp"
+//	"$phongexponent" 10
+	"$phongboost" "0.3"
+	"$phongfresnelranges"	"[ .2 .5 8]"
+	"$PhongAlbedoTint" "1"
+
+	"$rimlight" "1"						
+	"$rimlightexponent" "8"				
+	"$rimlightboost" ".4"
+	"$rimmask" "1"
+
+}
+
+
+
+
+
+
+
+
